@@ -16,9 +16,9 @@ Solution Integrator Experienced - Certified by Ericsson
 ## Topics
 ```
 Gradle Tutorial
-[ ] Home
-[ ] Overview
-[ ] Installation
+[x] Home
+[x] Overview
+[x] Installation
 [ ] Build Script
 [ ] Tasks
 [ ] Dependency Management
